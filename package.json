@@ -1,0 +1,32 @@
+{
+  "name": "saasu-api",
+  "version": "1.0.0",
+  "description": "interacting with saasu api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bistmaster/saasu-api.git"
+  },
+  "keywords": [
+    "saasu-api",
+    "saasu",
+    "accounting",
+    "api-saasu"
+  ],
+  "author": "Bethoveen Todino",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/bistmaster/saasu-api/issues"
+  },
+  "homepage": "https://github.com/bistmaster/saasu-api",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "supertest": "^0.15.0"
+  },
+  "dependencies": {
+    "superagent": "^0.21.0"
+  }
+}
